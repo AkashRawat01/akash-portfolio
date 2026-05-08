@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # SUMMARY
-## What          Where           URL pattern
-### Database      MongoDB       Atlascloud.mongodb.com
-### Backend       Render        https://akash-portfolio-api.onrender.com
-### Frontend      Vercel        https://akash-portfolio.vercel.app
+## What ---|--- Where ---|--- URL pattern
+### Database ---|--- MongoDB ---|--- Atlascloud.mongodb.com
+### Backend ---|--- Render ---|--- https://akash-portfolio-api.onrender.com
+### Frontend ---|--- Vercel ---|--- https://akash-portfolio.vercel.app
